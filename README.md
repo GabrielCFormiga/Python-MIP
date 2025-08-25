@@ -17,6 +17,7 @@ I hope it can serve as a guide for those who wish to learn and apply optimizatio
     * [Lesson 5 - Facility Location](./src/lesson5.ipynb)
     * [Lesson 8 - Steel Company](./src/lesson8.ipynb)
     * [Lesson 9 - Agricultural Production](./src/lesson9.ipynb)
+    * [Lesson 10 - Craftsman's Workshop](./src/lesson10.ipynb)
 2. [References](#general-references)
 ---
 
