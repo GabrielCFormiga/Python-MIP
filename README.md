@@ -15,6 +15,8 @@ I hope it can serve as a guide for those who wish to learn and apply optimizatio
 1. [Problems](./src/)
     * [Lesson 4 - Product Allocation to Factories](./src/lesson4.ipynb)
     * [Lesson 5 - Facility Location](./src/lesson5.ipynb)
+    * [Lesson 6 - Bin Packing](./src/lesson6.ipynb)
+    * [Lesson 7 - Traveling Salesman Problem](./src/lesson7.ipynb)
     * [Lesson 8 - Steel Company](./src/lesson8.ipynb)
     * [Lesson 9 - Agricultural Production](./src/lesson9.ipynb)
     * [Lesson 10 - Craftsman's Workshop](./src/lesson10.ipynb)
